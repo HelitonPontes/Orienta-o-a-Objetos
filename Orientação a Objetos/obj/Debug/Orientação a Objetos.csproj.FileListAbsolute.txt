@@ -1,0 +1,10 @@
+C:\Users\Heliton\source\repos\Orientação a Objetos\Orientação a Objetos\obj\Debug\Orientação a Objetos.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\Orientação a Objetos\Orientação a Objetos\obj\Debug\Orientação_a_Objetos.Form1.resources
+C:\Users\Heliton\source\repos\Orientação a Objetos\Orientação a Objetos\obj\Debug\Orientação_a_Objetos.Properties.Resources.resources
+C:\Users\Heliton\source\repos\Orientação a Objetos\Orientação a Objetos\obj\Debug\Orientação a Objetos.csproj.GenerateResource.cache
+C:\Users\Heliton\source\repos\Orientação a Objetos\Orientação a Objetos\obj\Debug\Orientação a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Heliton\source\repos\Orientação a Objetos\Orientação a Objetos\bin\Debug\Orientação a Objetos.exe.config
+C:\Users\Heliton\source\repos\Orientação a Objetos\Orientação a Objetos\bin\Debug\Orientação a Objetos.exe
+C:\Users\Heliton\source\repos\Orientação a Objetos\Orientação a Objetos\bin\Debug\Orientação a Objetos.pdb
+C:\Users\Heliton\source\repos\Orientação a Objetos\Orientação a Objetos\obj\Debug\Orientação a Objetos.exe
+C:\Users\Heliton\source\repos\Orientação a Objetos\Orientação a Objetos\obj\Debug\Orientação a Objetos.pdb
